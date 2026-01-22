@@ -240,18 +240,113 @@ graph LR
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Project: LOGICHIVE
 
 <div align="center">
-<a href="https://github.com/Sobhagyaverma">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=LOGICHIVE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+
+### 🐝 A Full-Stack LeetCode-Style Coding Platform
+
+<a href="https://github.com/Sobhagyaverma/LOGICHIVE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=LOGICHIVE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 </a>
-<a href="https://github.com/Sobhagyaverma">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=Plant-Disease-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
+
+**150+ DSA Problems • Real-Time Competitions • AI Recommendations • Multi-Language Support**
+
 </div>
 
-> 💡 **Note**: Replace repository names above with your actual featured repositories
+### ⚡ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+🎯 **Core Platform**
+- 150+ curated interview-ready DSA problems
+- Multi-language support (Java, Python, JS, C++)
+- Monaco Editor with IntelliSense
+- Real-time code execution via Judge0
+
+</td>
+<td width="50%">
+
+🏆 **Competition Mode**
+- Live coding contests with WebSocket leaderboards
+- Admin "God Mode" controls
+- Anti-cheat system (tab-switching detection)
+- PDF report generation with Puppeteer
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🤖 **AI-Powered**
+- ML-based problem recommendations
+- Personalized learning path
+- Progress tracking & analytics
+
+</td>
+<td width="50%">
+
+🔗 **Integrations**
+- GitHub auto-push for accepted solutions
+- Practice timer with auto-pause
+- Persistent submission history
+
+</td>
+</tr>
+</table>
+
+### 🏗️ System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                 Frontend (React + Vite + TS)                │
+│              Monaco Editor • Tailwind • Socket.io           │
+└─────────────────────────────┬───────────────────────────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+┌───────▼───────┐    ┌────────▼────────┐    ┌──────▼───────┐
+│ User Service  │    │ Problem Service │    │  Submission  │
+│   (NestJS)    │    │    (NestJS)     │    │   Service    │
+│   :3001       │    │     :3002       │    │    :3003     │
+└───────────────┘    └─────────────────┘    └──────────────┘
+        │                     │                     │
+┌───────▼───────┐    ┌────────▼────────┐    ┌──────▼───────┐
+│ Competition   │    │ GitHub Service  │    │  AI Service  │
+│   Service     │    │    (NestJS)     │    │  (FastAPI)   │
+│    :3000      │    │     :3004       │    │    :8000     │
+└───────────────┘    └─────────────────┘    └──────────────┘
+        │                     │                     │
+        └─────────────────────┼─────────────────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+   ┌────▼────┐          ┌─────▼─────┐         ┌─────▼─────┐
+   │PostgreSQL│          │   Redis   │         │  Judge0   │
+   │    DB    │          │   Cache   │         │   API     │
+   └──────────┘          └───────────┘         └───────────┘
+```
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-LOGICHIVE-58A6FF?style=for-the-badge)](https://github.com/Sobhagyaverma/LOGICHIVE)
+
+</div>
 
 ---
 
