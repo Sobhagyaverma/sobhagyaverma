@@ -350,6 +350,199 @@ graph LR
 
 ---
 
+## 🌱 Featured Project: AGROGUARD
+
+<div align="center">
+
+### 🛡️ AI-Powered Plant Disease Detection & IoT Smart Irrigation
+
+<a href="https://github.com/Sobhagyaverma/Smart-Plant-Care-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=Smart-Plant-Care-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+**95.85% Accuracy • 38 Disease Classes • IoT Automation • Real-Time Monitoring**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+🧠 **Hybrid CNN + SVM Model**
+- MobileNetV2 feature extraction
+- Linear SVM classification
+- 38 plant disease detection
+- <1s inference time
+
+</td>
+<td width="50%">
+
+💧 **IoT Smart Watering**
+- ESP32 + Firebase integration
+- Soil moisture monitoring
+- Automated pump control
+- Live sensor dashboard
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+</p>
+
+---
+
+## 🧪 Featured Project: INTERACTIVE ML LAB
+
+<div align="center">
+
+### 🎮 Learn ML Algorithms Through Interactive Visualizations
+
+<a href="https://github.com/Sobhagyaverma/Interactive_MachineLearning_Lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=Interactive_MachineLearning_Lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+**12 Algorithms • Interactive Playgrounds • Real-Time Visualization • Theory + Practice**
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+📏 **Regression**
+- Linear Regression
+- Polynomial Regression
+- Logistic Regression
+
+</td>
+<td width="33%">
+
+🌳 **Classification**
+- KNN, SVM, Naive Bayes
+- Decision Tree
+- Random Forest
+
+</td>
+<td width="33%">
+
+🧠 **Deep Learning**
+- Neural Networks
+- CNN (MNIST)
+- Q-Learning (RL)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+## 🚄 Featured Project: RAILWAY RESERVATION SYSTEM
+
+<div align="center">
+
+### 🎫 Full-Stack Train Booking Platform
+
+<a href="https://github.com/Sobhagyaverma/Railway_Reservation_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=Railway_Reservation_System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+**Real-Time Search • Multi-Class Booking • Admin Dashboard • JWT Auth**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+👤 **User Features**
+- Train search by route & date
+- Sleeper/AC seat booking
+- Booking history & cancellation
+
+</td>
+<td width="50%">
+
+🛡️ **Admin Dashboard**
+- Train CRUD management
+- Route planning
+- System-wide booking overview
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
+
+---
+
+## 😊 Featured Project: REAL-TIME EMOTION DETECTOR
+
+<div align="center">
+
+### 🎭 Live Facial Emotion Recognition System
+
+<a href="https://github.com/Sobhagyaverma/Real-Time-Emotion-Detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhagyaverma&repo=Real-Time-Emotion-Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+**Real-Time Detection • Webcam Integration • Multi-Emotion Classification**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+🎯 **Core Features**
+- Live webcam emotion detection
+- Haar Cascade face detection
+- Multi-emotion classification
+- Real-time predictions
+
+</td>
+<td width="50%">
+
+🔧 **Tech Highlights**
+- OpenCV for video processing
+- Pre-trained emotion model
+- Lightweight & fast inference
+- Python-based implementation
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
 ## 💬 Random Dev Quote
 
 <div align="center">
